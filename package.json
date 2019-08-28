@@ -1,0 +1,11 @@
+{
+  "name": "jobly-webhook",
+  "version": "1.0.0",
+  "description": "jobly api in webhook version",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Emi Tsukuda",
+  "license": "ISC"
+}
